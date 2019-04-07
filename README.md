@@ -1,1 +1,1 @@
-A whole bunch of games programmed in java. 
+A whole bunch of games programmed in java-script. 
